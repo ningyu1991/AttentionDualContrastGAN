@@ -4,7 +4,7 @@
 [Ning Yu](https://ningyu1991.github.io/), [Guilin Liu](https://liuguilin1225.github.io/), [Aysegul Dundar](http://www.cs.bilkent.edu.tr/~adundar/), [Andrew Tao](https://scholar.google.com/citations?user=Wel9l1wAAAAJ&hl=en), [Bryan Catanzaro](https://ctnzr.io/), [Larry Davis](https://lsd.umiacs.io/), [Mario Fritz](https://cispa.saarland/group/fritz/)<br>
 ICCV 2021
 
-### [paper](https://arxiv.org/pdf/2103.16748.pdf) | [poster](https://ningyu1991.github.io/homepage_files/poster_AttentionDualContrastGAN.pdf) | [video](https://www.youtube.com/watch?v=hviCTQJzhd0)
+### [paper](https://arxiv.org/pdf/2103.16748.pdf) | [project](https://ningyu1991.github.io/projects/AttentionDualContrastGAN.html) | [poster](https://ningyu1991.github.io/homepage_files/poster_AttentionDualContrastGAN.pdf) | [video](https://www.youtube.com/watch?v=hviCTQJzhd0)
 
 <img src='fig/teaser.png' width=800>
 
